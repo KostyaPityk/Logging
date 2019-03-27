@@ -1,0 +1,4 @@
+2019-03-27 21:17:39.8326 | DESKTOP-09VUVIL | LoggingSample.Controllers.OrdersController | LoggingSample.Controllers.OrdersController.Get(C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample\Controllers\OrdersController.cs:44) | WARN | Wrong customerId has been request get order with customer id: 56 |  | 
+
+2019-03-27 21:19:44.8868 | DESKTOP-09VUVIL | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController.Get(C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample\Controllers\CustomersController.cs:64) | WARN | Wrong customerId has been request: 56 |  | 
+

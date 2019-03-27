@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logs>
+  <level type="Info">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Start getting all customer.</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:14.9906884+03:00</TimeStamp>
+  </level>
+  <level type="Info">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Start getting all customer.</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:14.9906884+03:00</TimeStamp>
+  </level>
+  <level type="Info">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Start getting all customer.</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:14.9906884+03:00</TimeStamp>
+  </level>
+  <level type="Info">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Retrieving customers to response.</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:16.1858782+03:00</TimeStamp>
+  </level>
+  <level type="Info">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Retrieving customers to response.</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:16.1858782+03:00</TimeStamp>
+  </level>
+  <level type="Info">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Retrieving customers to response.</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:16.1858782+03:00</TimeStamp>
+  </level>
+  <level type="Info">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Start getting customer with id 1.</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:21.8258224+03:00</TimeStamp>
+  </level>
+  <level type="Info">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Start getting customer with id 1.</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:21.8258224+03:00</TimeStamp>
+  </level>
+  <level type="Info">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Start getting customer with id 1.</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:21.8258224+03:00</TimeStamp>
+  </level>
+  <level type="Info">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Retrieving customer with id 1 to response.</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:21.8836703+03:00</TimeStamp>
+  </level>
+  <level type="Info">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Retrieving customer with id 1 to response.</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:21.8836703+03:00</TimeStamp>
+  </level>
+  <level type="Info">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Retrieving customer with id 1 to response.</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:21.8836703+03:00</TimeStamp>
+  </level>
+  <level type="Info">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Start getting customer with id 56.</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:25.9858548+03:00</TimeStamp>
+  </level>
+  <level type="Info">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Start getting customer with id 56.</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:25.9858548+03:00</TimeStamp>
+  </level>
+  <level type="Info">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Start getting customer with id 56.</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:25.9858548+03:00</TimeStamp>
+  </level>
+  <level type="Warn">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Wrong customerId has been request: 56</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:26.0897629+03:00</TimeStamp>
+  </level>
+  <level type="Warn">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Wrong customerId has been request: 56</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:26.0897629+03:00</TimeStamp>
+  </level>
+  <level type="Warn">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Wrong customerId has been request: 56</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:26.0897629+03:00</TimeStamp>
+  </level>
+  <level type="Warn">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Wrong customerId has been request: 56</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:26.0897629+03:00</TimeStamp>
+  </level>
+  <level type="Info">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Start getting customer with id 1.</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:27.6036288+03:00</TimeStamp>
+  </level>
+  <level type="Info">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Start getting customer with id 1.</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:27.6036288+03:00</TimeStamp>
+  </level>
+  <level type="Info">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Start getting customer with id 1.</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:27.6036288+03:00</TimeStamp>
+  </level>
+  <level type="Info">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Retrieving customer with id 1 to response.</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:27.6393049+03:00</TimeStamp>
+  </level>
+  <level type="Info">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Retrieving customer with id 1 to response.</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:27.6393049+03:00</TimeStamp>
+  </level>
+  <level type="Info">
+    <Exception />
+    <MachineName>DESKTOP-09VUVIL</MachineName>
+    <LoggerName>LoggingSample.Controllers.CustomersController</LoggerName>
+    <Message>Retrieving customer with id 1 to response.</Message>
+    <MessageSource />
+    <TimeStamp>2019-03-28T00:05:27.6393049+03:00</TimeStamp>
+  </level>
+</logs>

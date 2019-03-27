@@ -1,0 +1,20 @@
+2019-03-27 21:16:22.2188 | DESKTOP-09VUVIL | LoggingSample.Controllers.OrdersController | LoggingSample.Controllers.OrdersController.Get(C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample\Controllers\OrdersController.cs:31) | INFO | Start getting orders with customer with id 1. |  | 
+
+2019-03-27 21:16:41.8277 | DESKTOP-09VUVIL | LoggingSample.Controllers.OrdersController | LoggingSample.Controllers.OrdersController+<Get>d__3.MoveNext(C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample\Controllers\OrdersController.cs:37) | INFO | Retrieving  order witth customer with id 1 to response. |  | 
+
+2019-03-27 21:17:39.7428 | DESKTOP-09VUVIL | LoggingSample.Controllers.OrdersController | LoggingSample.Controllers.OrdersController.Get(C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample\Controllers\OrdersController.cs:31) | INFO | Start getting orders with customer with id 56. |  | 
+
+2019-03-27 21:17:39.8326 | DESKTOP-09VUVIL | LoggingSample.Controllers.OrdersController | LoggingSample.Controllers.OrdersController.Get(C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample\Controllers\OrdersController.cs:44) | WARN | Wrong customerId has been request get order with customer id: 56 |  | 
+
+2019-03-27 21:18:17.8760 | DESKTOP-09VUVIL | LoggingSample.Controllers.OrdersController | LoggingSample.Controllers.OrdersController.Get(C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample\Controllers\OrdersController.cs:59) | INFO | Start getting order with id 1 and cusotomer id 1. |  | 
+
+2019-03-27 21:18:18.0463 | DESKTOP-09VUVIL | LoggingSample.Controllers.OrdersController | LoggingSample.Controllers.OrdersController+<Get>d__4.MoveNext(C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample\Controllers\OrdersController.cs:71) | INFO | Retrieving  order after customer with id 1 and order with id 1  to response. |  | 
+
+2019-03-27 21:19:18.6403 | DESKTOP-09VUVIL | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController.Get(C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample\Controllers\CustomersController.cs:25) | INFO | Start getting all customer. |  | 
+
+2019-03-27 21:19:18.7333 | DESKTOP-09VUVIL | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController+<Get>d__3.MoveNext(C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample\Controllers\CustomersController.cs:31) | INFO | Retrieving customers to response. |  | 
+
+2019-03-27 21:19:44.7931 | DESKTOP-09VUVIL | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController.Get(C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample\Controllers\CustomersController.cs:44) | INFO | Start getting customer with id 56. |  | 
+
+2019-03-27 21:19:44.8868 | DESKTOP-09VUVIL | LoggingSample.Controllers.CustomersController | LoggingSample.Controllers.CustomersController.Get(C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample\Controllers\CustomersController.cs:64) | WARN | Wrong customerId has been request: 56 |  | 
+

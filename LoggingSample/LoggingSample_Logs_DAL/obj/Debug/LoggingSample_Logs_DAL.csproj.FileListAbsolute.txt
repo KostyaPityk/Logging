@@ -1,0 +1,14 @@
+C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample_Logs_DAL\bin\Debug\LoggingSample_Logs_DAL.dll.config
+C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample_Logs_DAL\bin\Debug\LoggingSample_Logs_DAL.dll
+C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample_Logs_DAL\bin\Debug\LoggingSample_Logs_DAL.pdb
+C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample_Logs_DAL\bin\Debug\EntityFramework.dll
+C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample_Logs_DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample_Logs_DAL\bin\Debug\EntityFramework.xml
+C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample_Logs_DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample_Logs_DAL\obj\Debug\LoggingSample_Logs_DAL.csprojAssemblyReference.cache
+C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample_Logs_DAL\obj\Debug\LoggingSample_Logs_DAL.Migrations.Initial.resources
+C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample_Logs_DAL\obj\Debug\LoggingSample_Logs_DAL.csproj.GenerateResource.cache
+C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample_Logs_DAL\obj\Debug\LoggingSample_Logs_DAL.csproj.CoreCompileInputs.cache
+C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample_Logs_DAL\obj\Debug\LoggingSample_Logs_DAL.csproj.CopyComplete
+C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample_Logs_DAL\obj\Debug\LoggingSample_Logs_DAL.dll
+C:\Users\riki2\OneDrive\Рабочий стол\OneDrive_2019-03-27\logging sample\LoggingSample\LoggingSample\LoggingSample_Logs_DAL\obj\Debug\LoggingSample_Logs_DAL.pdb
